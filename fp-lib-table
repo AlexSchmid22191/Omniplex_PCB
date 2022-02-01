@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Omniplex)(type KiCad)(uri ${KIPRJMOD}/Omniplex.pretty)(options "")(descr ""))
+)
